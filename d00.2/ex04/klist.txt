@@ -1,0 +1,7 @@
+Credentials cache: API:2FCF2443-0E45-4B91-9294-FC9B9D8EFBF3
+        Principal: arousse@42.FR
+
+  Issued                Expires               Principal
+Feb  4 16:02:47 2019  Feb 11 16:02:47 2019  krbtgt/42.FR@42.FR
+Feb  4 16:02:49 2019  Feb 11 16:02:47 2019  ldap/ldap-proxy.42.fr@42.FR
+Feb  4 16:02:49 2019  Feb 11 16:02:47 2019  HTTP/student-storage-1.42.fr@42.FR
